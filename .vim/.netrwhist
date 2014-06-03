@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/nower/build/debug/examples/simple/CMakeFiles'
+let g:netrw_dirhist_2='/home/nower/build/debug/examples/CMakeFiles'
+let g:netrw_dirhist_3='/home/nower/muduo/examples/filetransfer/loadtest'
+let g:netrw_dirhist_4='/home/nower/muduo/examples/asio'
+let g:netrw_dirhist_5='/home/nower/muduo/examples/asio/tutorial'
+let g:netrw_dirhist_6='/home/nower/Qt/qt-everywhere-opensource-src-4.8.6/mkspecs/linux-g++'
+let g:netrw_dirhist_7='/home/nower'
